@@ -30,13 +30,13 @@
 * SIFT feature, David Lowe : 불변하는 특징을 찾아 특징점끼리 매칭시키는 것이 이 알고리즘의 main idea
 * Spatial Pyramid Matching, HOG algorithm
 * ILSVRC(ImageNet Large Scale Visual Recognition Challenge)
-        * ImageNet은 22K의 C짐ategories와 14M 개의 이미지가 들어있는 엄청난 Dataset
-        * 2012년에 이 대회에서 Image Classification의 오차율이 급격히 감소
-        * 2012년 대회에서 우승한 혁신적인 알고리즘이 바로 CNN 구조를 기반으로 한 AlexNet
+       * ImageNet은 22K의 C짐ategories와 14M 개의 이미지가 들어있는 엄청난 Dataset
+       * 2012년에 이 대회에서 Image Classification의 오차율이 급격히 감소
+       * 2012년 대회에서 우승한 혁신적인 알고리즘이 바로 CNN 구조를 기반으로 한 AlexNet
 
 ### 3. Convolutional Neural Networks (CNN)
 * Convolutional Neural Networks(CNN) have become an important tool for object recognition.
 * 2012년에 CNN idea가 처음으로 나온 건 아님
 * 그렇다면 2012년에 CNN이 유행하게 된 이유는?
-        * 연산 속도가 빨라짐(Increasing Computation)
-        * 데이터의 양이 많아짐
+       * 연산 속도가 빨라짐(Increasing Computation)
+       * 데이터의 양이 많아짐
