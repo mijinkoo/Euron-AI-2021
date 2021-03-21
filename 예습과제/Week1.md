@@ -7,7 +7,7 @@
 * Pinhole camera 이론에 근거한 카메라 Obscura  
         - 동물들이 구멍을 통해 빛을 모으는 초기 눈과 유사  
         - 카메라 뒤쪽에 있는 plane에서 정보와 영상을 수집  
-* Hubel & Wiesel, 1959. Electrophysiology 연구
+* Hubel & Wiesel, 1959. Electrophysiology 연구  
         - 고양이 뇌에 전극을 꽂아서 어떤 자극이 고양이 뇌의 신경세포를 흥분시키는지 관찰  
         - 고양이 뇌의 1차 시각 피질 부분에는 많은 종류의 세포가 있지만, 가장 중요한 세포는 Edge에 반응하는 Simple cell  
 
