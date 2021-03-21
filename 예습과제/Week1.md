@@ -33,6 +33,6 @@
 ### 2. Convolutional Neural Networks (CNN)
 * Convolutional Neural Networks(CNN) have become an important tool for object recognition.
 * 2012년에 CNN idea가 처음으로 나온 건 아님
-* 그렇다면 2012년에 CNN이 유행하게 된 이유  
+* 그렇다면 2012년에 CNN이 유행하게 된 이유는?  
        - 연산 속도가 빨라짐(Increasing Computation)  
        - 데이터의 양이 많아짐  
