@@ -1,9 +1,9 @@
 ### 1. Computer Vision의 역사
-###### Biological Vision의 역사
+##### Biological Vision의 역사
 * 과거 고대 생물에게 시력은 존재하지 않았다가 시력이 생기면서 아주 짧은 기간동안 생물의 종이 폭발적으로 증가 (Evolution’s Big Bang)
 * 시력은 거의 모든 지적 동물들의 가장 큰 감각 체계로 발전
 
-###### Mechanical Vision의 역사
+##### Mechanical Vision의 역사
 * Pinhole camera 이론에 근거한 카메라 Obscura  
         - 동물들이 구멍을 통해 빛을 모으는 초기 눈과 유사  
         - 카메라 뒤쪽에 있는 plane에서 정보와 영상을 수집  
@@ -11,7 +11,7 @@
         - 고양이 뇌에 전극을 꽂아서 어떤 자극이 고양이 뇌의 신경세포를 흥분시키는지 관찰  
         - 고양이 뇌의 1차 시각 피질 부분에는 많은 종류의 세포가 있지만, 가장 중요한 세포는 Edge에 반응하는 Simple cell  
 
-###### Computer Vision의 역사
+##### Computer Vision의 역사
 * Block world, 1963 : 눈에 보이는 사물들을 기하학적 모양으로 단순화
 * “The Summer Vision Project”, 1966 : 대부분의 시각 체계를 구현하려는 시도
 * <Vision>, David Marr, 1982 : 책에서는 눈으로 받아들인 정보를 우리가 생각하는 완전한 3D 형태
